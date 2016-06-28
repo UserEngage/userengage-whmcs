@@ -1,7 +1,7 @@
 # UserEngage WHMCS module addon
 
 ##### Installation
-1. Download [master](https://github.com/UserEngage/whmcs-addon/archive/master.zip) branch (or clone).
+1. Download [master](https://github.com/UserEngage/userengage-whmcs/archive/master.zip) branch (or clone).
 2. Un-zip a .zip file
 3. Move it to _root_ folder (that's the one with your `admin`, `assets`, `downloads`, `templates` directories)
 4. Go to _**Setup** -> **Addon Modules** -> **UserEngage**_ and click `Activate`
