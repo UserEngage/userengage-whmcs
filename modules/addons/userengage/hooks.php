@@ -21,7 +21,7 @@ function userengage_ClientAreaFooterOutput($vars) {
 	$params = array();
 	if (isset($vars['clientsdetails']))
 	{
-		$params[] = ['key' => 'name', 'value' => $vars['clientdetails']['firstname'] . $vars['clientdetails']['lastname'] ];
+		$params[] = ['key' => 'name', 'value' => $vars['clientsdetails']['firstname'] . ' ' . $vars['clientsdetails']['lastname'] ];
 		$keys = array(
 			'email' => 'email'
 		);
